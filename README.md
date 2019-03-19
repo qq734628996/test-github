@@ -1,30 +1,30 @@
-# test-github
-test one down
-
-<p align="center" style="font-family:SimHei;font-size:200%;color:black">
-    标题
-</p>
-
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8">
 <style>
-p.title {
-    font: 22pt SimHei;
+h1 {
+    font-size: 22pt;
+    font-family: SimHei;
+    text-align:center;
 }
-p.subtitle {
-    font: 15pt SimSun;
+h2 {
+    font-size: 15pt;
+    font-family: SimSun;
+    text-align:center;
 }
-p.body {
-    font: 12pt SimSun;
+p {
+    font-size: 12pt;
+    font-family: SimSun;
 }
 </style>
 </head>
+
 <body>
 
-<p align="center" class="title">标题</p>
-<p align="center" class="subtitle">子标题</p>
-<p class="body">正文</p>
+<h1>标题</h1>
+<h2>子标题</h2>
+<p>正文</p>
 
 </body>
 </html>
