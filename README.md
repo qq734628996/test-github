@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<font face="黑体" size=22>我是黑体字</font>
+<font color=#0099ff size=12 face="黑体">黑体</font>
 
 <html>
 <head>
