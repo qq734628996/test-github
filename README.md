@@ -1,9 +1,6 @@
 # test-github
 test one down
 
-<p align="center">
-    <font size="6" face="SimHei">
+<p align="center" style="font-family:SimHei;font-size:200%;color:black">
     标题
-    </font>
-    <br/>
 </p>
