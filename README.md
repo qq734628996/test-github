@@ -1,33 +1,15 @@
-<!DOCTYPE html>
-
-<font color=#0099ff size=12 face="黑体">黑体</font>
-
 <html>
-<head>
-<meta charset="utf-8">
-<style>
-h1 {
-    font-size: 22pt;
-    font-family: SimHei;
-    text-align:center;
-}
-h2 {
-    font-size: 15pt;
-    font-family: SimSun;
-    text-align:center;
-}
-p {
-    font-size: 12pt;
-    font-family: SimSun;
-}
-</style>
-</head>
-
 <body>
 
-<h1>标题</h1>
-<h2>子标题</h2>
-<p>正文</p>
+<h1 style="font-family:SimHei;font-size:29px;text-align:center">
+标题
+</h1>
+<h2 style="font-family:SimSun;font-size:21px;">
+子标题
+</h2>
+<p style="font-family:SimSun";font-size:16px>
+段落
+</p>
 
 </body>
 </html>
