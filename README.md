@@ -18,8 +18,8 @@
 <font size="6" face="SimHei" color="black">
 居中标题
 </font>
-</p>
-<h2 align="center">
+</h1>
+<p align="center">
 <font size="5" face="SimSun" color="black">
 二级标题
 </font>
