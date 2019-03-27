@@ -15,7 +15,12 @@
 </html>
 
 <h1 align="center">
-<font size="29" face="SimHei" color="black">
+<font size="6" face="SimHei" color="black">
 居中标题
 </font>
 </h1>
+<h2 align="center">
+<font size="5" face="SimSun" color="black">
+二级标题
+</font>
+</h2>
