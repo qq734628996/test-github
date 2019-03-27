@@ -15,5 +15,5 @@
 </html>
 
 <div align="center">
-    <p style="font-family:SimHei;font-size:29px">居中标题</p>
+    <h1>居中标题</h1>
 </div>
