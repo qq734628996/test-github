@@ -15,5 +15,7 @@
 </html>
 
 <h1 align="center">
-    居中标题
+<font size="29" face="SimHei" color="black">
+居中标题
+</font>
 </h1>
