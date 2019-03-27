@@ -19,8 +19,9 @@
 居中标题
 </font>
 </h1>
-<p align="center">
+
+<h2 align="center">
 <font size="5" face="SimSun" color="black">
 二级标题
 </font>
-</p>
+</h2>
