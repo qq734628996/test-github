@@ -14,6 +14,6 @@
 </body>
 </html>
 
-<div align="center">
-    <h1>居中标题</h1>
-</div>
+<h1 align="center">
+    居中标题
+</h1>
